@@ -16,6 +16,7 @@
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
+    width: fit-content;
 }
 
 .nav .nav-search input{
